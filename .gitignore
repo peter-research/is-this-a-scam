@@ -1,0 +1,8 @@
+node_modules/
+electron/node_modules/
+electron/app/
+android/build/
+android/app/src/main/assets/www/
+android/isthisascam.keystore
+dist/
+*.log
